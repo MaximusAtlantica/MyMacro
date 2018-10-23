@@ -1,5 +1,5 @@
 # MyMacro
-Macro untuk mouse biasa (player gak bermodal) dan player malas
+Macro untuk mouse biasa (player gak bermodal) dan kamu (player malas)
 
 Fungsi :
 
