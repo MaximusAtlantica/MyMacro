@@ -5,3 +5,6 @@ Macro untuk mouse biasa (player gak bermodal) dan kamu (player malas)<br/><br/>
 * Scroll Down = Search All (tombol X)<br/>
 * Scroll Up = Skip (tombol ~)<br/>
 * Scroll Click = 1 (tombol 1)<br/>
+
+**Screenshoot**<br/>
+![sample image](https://github.com/MaximusAtlantica/MyMacro/blob/master/Resources/sample.png)
