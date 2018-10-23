@@ -1,7 +1,7 @@
 # MyMacro
 Macro untuk mouse biasa (player gak bermodal) dan player malas
 
-Fungsi
+Fungsi :
 
 F11 - Pilih Target / F12 - On Off
 
